@@ -5,9 +5,13 @@
 # Python Course 2
 ## Assignment 7
 - palindrome.
+
     ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%207/output/palindrome.png?raw=true)
+  
 - ATM.
-    ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%207/output/Atm.png?raw=true) 
+- 
+    ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%207/output/Atm.png?raw=true)
+  
 - Count.
 
     ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%207/output/Count.png?raw=true)
