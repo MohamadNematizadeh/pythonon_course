@@ -4,6 +4,13 @@
 # Python Course 2
 ## Assignment 8
 - guess_nmber.
+  
     ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%208/output/guess_nmber.png?raw=true)
+  
 - game_dise.
-    ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%208/output/game_dise.png?raw=true) 
+  
+    ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%208/output/game_dise.png?raw=true)
+  
+  - show_number.
+ 
+    ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%208/output/show_numbers.png?raw=true) 
