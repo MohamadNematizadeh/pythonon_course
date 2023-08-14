@@ -1,0 +1,70 @@
+import pyfiglet
+# Define a dictionary to map words to emojis
+emoji_mapping = {
+    "once": "🕰️",
+    "upon": "📖",
+    "a": "🅰️",
+    "time": "⏳",
+    "in": "📥",
+    "far": "🌌",
+    "away": "🏞️",
+    "there": "📍",
+    "lived": "🏠",
+    "dragon": "🐉",
+    "guarded": "🛡️",
+    "castle": "🏰",
+    "where": "🔍",
+    "hidden": "🕵️‍♂️",
+    "many": "🔢",
+    "brave": "🦸‍♂️🦸‍♀️",
+    "tried": "🔄",
+    "find": "🔍",
+    "none": "0️⃣",
+    "succeeded": "🎉",
+    "one": "1️⃣",
+    "day": "📅",
+    "young": "👶",
+    "set": "📌",
+    "out": "🏞️➡️🚶‍♂️",
+    "on": "🔛",
+    "journey": "🚶‍♂️",
+    "along": "🔄",
+    "way": "🛤️",
+    "he": "👦",
+    "met": "🤝",
+    "a": "🅰️",
+    "wizard": "🧙‍♂️",
+    "wolf": "🐺",
+    "and": "➕",
+    "tree": "🌲",
+    "with": "🤝",
+    "their": "👨‍👩‍👦",
+    "help": "🆘",
+    "overcame": "🏞️➡️🌄",
+    "finally": "🎊",
+    "reached": "🏰➡️🌟",
+    "challenged": "🥊",
+    "solve": "🧠",
+    "code": "🔢",
+    "after": "🕒",
+    "much": "🔢",
+    "thought": "💭",
+    "cracked": "🚫🔢➡️🆗",
+    "lit": "🔥",
+    "up": "🆙",
+    "the": "🏰",
+    "sky": "☁️🌌",
+    "bringing": "🎁",
+    "happiness": "😄",
+    "to": "➡️",
+    "world": "🌎",
+    "forever": "♾️"
+}
+result= pyfiglet.figlet_format("app text to emoji", font="slant")
+print(result)
+
+# Sample text
+#    The dragon guarded a castle where a hidden treasure was waiting. Many brave souls tried to find the treasure, but none succeeded. One day, a young adventurer set out on a journey to find the treasure. Along the way, he met a wise wizard, a friendly wolf, and a magical tree. With their help, he overcame many obstacles and finally reached the castle. The dragon challenged him to solve a mysterious code. After much thought, the young adventurer cracked the code and lit up the sky, bringing happiness to the world forever.
+text = input("inter user text to emoji :")
+emojified_text = ' '.join([emoji_mapping.get(word.lower(), word) for word in text.split()])
+print(emojified_text)
