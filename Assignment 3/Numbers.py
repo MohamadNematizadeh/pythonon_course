@@ -1,0 +1,6 @@
+a = int (input('enter aashar :'))
+b = int (input('enter yekan :'))
+c = int (input('enter dahgan :'))
+d = int (input('enter sadgan :'))
+e = int (input('enter hezargan :'))
+print ((a*0.1)+(b*1)+(c*10)+(d*100)+(e*1000))
