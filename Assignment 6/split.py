@@ -1,0 +1,6 @@
+namber = input('enter youre number :')
+split_text = namber.split()
+split_text.sort()
+print('sort',split_text)
+split_text.reverse()
+print('reverse',split_text)

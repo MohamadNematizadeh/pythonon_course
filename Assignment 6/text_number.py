@@ -1,0 +1,5 @@
+sentence = input('Enter your sentence :')
+sentence = sentence.split()
+sentence.reverse()
+sentence = '*'.join(sentence)
+print(sentence)
