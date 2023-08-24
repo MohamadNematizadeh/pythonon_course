@@ -41,4 +41,4 @@ time = Time(t[0], t[1], t[2], t2[0], t2[1], t2[2])
 if op == 1:
     time.sub()
 else:
-    time.sum()
+    # time.sum()
