@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Home</class>
+ <widget class="QMainWindow" name="Home">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>751</width>
+    <height>233</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Home</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>icon/convert_icon.png</normaloff>icon/convert_icon.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(32, 33, 36);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout_2">
+    <item row="1" column="0">
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="0">
+       <layout class="QGridLayout" name="gridLayout_3">
+        <item row="1" column="0">
+         <widget class="QRadioButton" name="Foot_to_Inch">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Foot to Inch</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="3">
+         <widget class="QRadioButton" name="Kelvin_to_Celsius">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Kelvin to Celsius</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="2">
+         <widget class="QRadioButton" name="Foot_to_Meter">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Foot to Meter</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="2">
+         <widget class="QRadioButton" name="Celsius_to_Kelvin">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Celsius to Kelvin</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QRadioButton" name="Foot_to_Centimeter">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Foot to Centimeter</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="3">
+         <widget class="QRadioButton" name="Foot_to_Yard">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Foot to Yard</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QRadioButton" name="Euro_to_USD">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Euro to USD</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QRadioButton" name="Euro_to_Tnd">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Euro to Tnd</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QRadioButton" name="Fahrenheit_to_Kelvin">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Fahrenheit to Kelvin</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QRadioButton" name="Euro_to_Cad">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Euro to Cad</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QRadioButton" name="Fahrenheit_to_Celsius">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Fahrenheit to Celsius</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="3">
+         <widget class="QRadioButton" name="Euro_to_Cnh">
+          <property name="styleSheet">
+           <string notr="true">color: rgb(255, 255, 255);
+font: 600 12pt &quot;Yu Gothic UI Semibold&quot;;</string>
+          </property>
+          <property name="text">
+           <string>Euro to Cnh</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="0">
+     <widget class="QTextBrowser" name="textBrowser">
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:10.5pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:20pt; font-weight:700; vertical-align:super;&quot;&gt;welcome to conver app&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:20pt; font-weight:700; vertical-align:super;&quot;&gt;  What operation 4 you want to do?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="Home" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>751</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Home</class>
+   <extends>QMenuBar</extends>
+   <header location="global">home.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
