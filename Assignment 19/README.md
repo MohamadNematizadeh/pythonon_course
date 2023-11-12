@@ -6,19 +6,19 @@
 
 - hangman
 
-  ![res](https://raw.githubusercontent.com/MohamadNematizadeh/pythonon_course2/main/Assignment%2018/output/output_forst.png)
+  ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%2019/HangMan/output/2.png?raw=true)
 ---
 
 - Tic Tac Toe
 
-  ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%2018/output/output_imoge.png?raw=true)
+  ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%2019/Tic%20Tac%20Toe/output/Tic_Tac_Toe_output.png?raw=true)
 ---
 - convert
 
-  ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%2018/output/output_2D_Space_Shoote.png?raw=true)
+  ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%2019/convert/output/convert_output.png?raw=true)
 ---
 - calculator
 
-  ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%2018/output/output_Python_Snake.png?raw=true)
+  ![res](https://github.com/MohamadNematizadeh/pythonon_course2/blob/main/Assignment%2019/calculator/output/output_calculator.png?raw=true)
 ---
 
